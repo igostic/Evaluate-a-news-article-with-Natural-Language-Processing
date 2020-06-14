@@ -106,4 +106,5 @@ Once you are hooked up to the Aylien API, you are most of the way there! Along w
 ## Deploying
 
 A great step to take with your finished project would be to deploy it! Unfortunately its a bit out of scope for me to explain too much about how to do that here, but checkout [Netlify](https://www.netlify.com/) or [Heroku](https://www.heroku.com/) for some really intuitive free hosting options.
+
 [![Netlify Status](https://api.netlify.com/api/v1/badges/25ff8285-e750-4e09-a03a-ea2c15d33f63/deploy-status)](https://app.netlify.com/sites/evaluate-news-articles-with-nlp/deploys)
